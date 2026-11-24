@@ -7,10 +7,10 @@
 
 **Precision GPS Telemetry, Turn-by-Turn Navigation & Garage Companion for Motorcycle Riders and Car Enthusiasts.**
 
-[![Latest Release](https://img.shields.io/github/v/release/ninjjo/mototrack-releases?style=for-the-badge&color=39FF14&labelColor=0F1115&label=LATEST%20RELEASE)](https://github.com/ninjjo/mototrack-releases/releases/latest)
-[![Platform](https://img.shields.io/badge/Android-10%2B-39FF14?style=for-the-badge&logo=android&logoColor=39FF14&labelColor=0F1115)](https://github.com/ninjjo/mototrack-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/ninjjo/mototrack-releases/total?style=for-the-badge&color=00D4FF&labelColor=0F1115)](https://github.com/ninjjo/mototrack-releases/releases)
-[![Privacy](https://img.shields.io/badge/Privacy-Offline--First-10B981?style=for-the-badge&labelColor=0F1115)](#privacy--security)
+[![Latest Release](https://img.shields.io/github/v/release/ninjjo/mototrack-releases?style=for-the-badge&color=15803D&labelColor=161B22&label=LATEST%20RELEASE)](https://github.com/ninjjo/mototrack-releases/releases/latest)
+[![Platform](https://img.shields.io/badge/Android-10%2B-1E293B?style=for-the-badge&logo=android&logoColor=39FF14&labelColor=161B22)](https://github.com/ninjjo/mototrack-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/ninjjo/mototrack-releases/total?style=for-the-badge&color=0369A1&labelColor=161B22)](https://github.com/ninjjo/mototrack-releases/releases)
+[![Privacy](https://img.shields.io/badge/Privacy-Offline--First-0F766E?style=for-the-badge&labelColor=161B22)](#privacy--security)
 
 <br />
 
