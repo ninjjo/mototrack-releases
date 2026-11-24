@@ -71,13 +71,11 @@
 
 ---
 
-## Credits & Core Team
+## Creator
 
-| Role | Rider ID |
-| :--- | :--- |
-| **Founder & Lead Creator** | `MOTO-1111` |
-| **Co-Founder** | `MOTO-1010` |
-| **Co-Founder** | `MOTO-H7MH` |
+| Name | Role | Rider ID |
+| :--- | :--- | :--- |
+| **Youssef El-Srif** | **Founder & Lead Creator** | `MOTO-1111` |
 
 ---
 
